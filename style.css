@@ -1,0 +1,70 @@
+
+i{
+	color: blue;
+}
+
+
+a{
+	color: purple;
+	font-family: Impact;
+}
+
+body{
+	
+	background-color: #8DC3D1;
+	background-image:  
+	radial-gradient(#673AB7 1px, transparent 0),
+    radial-gradient(#999 1px, transparent 0);
+	background-size: 42px 42px;
+	background-position: 0 0, 21px 21px;
+	animation: infinite dots 1s alternate;
+}
+
+@keyframes dots{
+	to{
+		background-position: 21px 21px, 0 0;
+	}
+}
+
+
+
+
+
+
+button{
+	color: black;
+}
+
+
+
+
+       					/botton animation
+
+
+
+
+
+
+
+h1{
+	
+	text-decoration: none;
+	width: 100px;
+	height: 50px;
+	color: #000000;
+	font-size: xx-large;
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
